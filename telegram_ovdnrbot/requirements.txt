@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+dnspython==1.16.0
+pymongo==3.7.2
+geopy==1.19.0
+requests==3.0.4
